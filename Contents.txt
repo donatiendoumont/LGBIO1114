@@ -1,0 +1,33 @@
+Contenus des séances de TP's
+
+
+Séance 1 
+========
+Fonctionnement de l'oreille et rappels théoriques
+
+Au cours de cette première séance, nous allons discuter du fonctionnement de l'oreille dans son rôle d'appareil auditif. Nous allons ensuite aborder
+certains concepts théoriques (déjà vus normalement en Signaux et Systèmes) permettant d'aborder sereinement les deux prochaines séances d'exercices.
+
+
+
+
+Séance 2
+========
+
+Appareil auditif : Surdité partielle
+
+Au cours de cette séance, nous allons implémenter les stratégies de traitement de signals contenues dans les appareils auditifs. Nous sommes dans le cas
+où les osselets ne permettent plus de transmettre tout ou une partie du spectre auditif correctement et doivent donc être "bypassés" par un appareil qui 
+amplifie les fréquences problématiques. 
+
+
+
+Séance 3
+========
+
+Implant cochléaire complet : Surdité totale
+
+Au cours de cette séance, nous allons implémenter les stratégies de traitement de signal conteneus dans les implants cochléaires complet. 
+Nous sommes dans le cas où l'oreille interne (ou moyenne) ne fonctionne plus et qu'il faut ajouter un élément qui remplit le rôle qui 
+n'est plus assuré par l'oreille. Dans ce type d'implant, le nerf auditif est directement stimulé à partir d'une reconstitution du signal 
+d'entrée. Nous allons implémenter ici toutes les fonctions de l'implant cochléaire. 
