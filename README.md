@@ -1,6 +1,6 @@
 # LGBIO1114
 Support pour les sessions d'exercice pour le cours de LGBIO1114 UCLouvain - année 2021-2022. 
-Réalisé par Antoine De Comité (https://colab.research.google.com/github/decomiteA)|[github].
+Réalisé par Antoine De Comité [github](https://colab.research.google.com/github/decomiteA).
 
 
 # Séances d'exercices - Partie Philippe Lefèvre
