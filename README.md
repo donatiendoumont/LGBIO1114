@@ -22,5 +22,5 @@ Issu du support réalisé par Antoine De Comité ([github](https://github.com/de
 | Tutorial 2 Solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/donatiendoumont/LGBIO1114/blob/main/Tutorial2_LGBIO1114s.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/donatiendoumont/LGBIO1114/blob/main/Tutorial2_LGBIO1114s.ipynb) |
 | Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/donatiendoumont/LGBIO1114/blob/main/Tutorial3_LGBIO1114.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/donatiendoumont/LGBIO1114/blob/main/Tutorial3_LGBIO1114.ipynb) |
 | Tutorial 3 Solution| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/donatiendoumont/LGBIO1114/blob/main/Tutorial3_LGBIO1114s.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/donatiendoumont/LGBIO1114/blob/main/Tutorial3_LGBIO1114s.ipynb) |
-=======
+
 
